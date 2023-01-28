@@ -16,6 +16,7 @@
     - These can be installed using the requirements.bat file
 
 ### How to install
+- You can ignore the start.bat file it does not work atm
 -   Run the install setup.bat file if you do not have python installed already
 -   Run the requirements.bat file to install any requirements
     - This is found in the setup folder
