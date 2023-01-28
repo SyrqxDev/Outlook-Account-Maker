@@ -12,5 +12,16 @@
 
 -   Windows 10/11
 -   [Python](https://www.python.org/downloads/release/python-3109/)
--   [Git](https://git-scm.com/download/win)
+    - imports (password_generator, os,time,string,pyautogui,random)
+    - These can be installed using the requirements.bat file
 
+### How to install
+-   Run the install setup.bat file if you do not have python installed already
+-   Run the requirements.bat file to install any requirements
+    - This is found in the setup folder
+-   Open main.py in Visual Studio Code or any other IDE
+    - Click Run in the top left corner
+- Make sure Google Chrome is installed, or you can change the app location for it to open a browser
+- Let it run and control your mouse until you reach the captcha, then you will have to do the captcha manually
+- You have your account! :)
+### Before running program again make sure to grab your account details found in the accountDetails.txt file which will be generated automatically.
