@@ -25,6 +25,6 @@
 - Make sure Google Chrome is installed, or you can change the app location for it to open a browser
 - Let it run and control your mouse until you reach the captcha, then you will have to do the captcha manually
 - You have your account! :)
-### Before running program again make sure to grab your account details found in the accountDetails.txt file which will be generated automatically.
+### Before running program again make sure to grab your account details found in the accountDetails.txt file which will be generated automatically. If the process fails, re-run it, it will work. There is some issues with timing.
 
 ### [Download](https://github.com/SyrqxDev/Outlook-Account-Maker/releases/tag/V0.1.1-beta)
