@@ -12,7 +12,7 @@
 
 -   Windows 10/11
 -   [Python](https://www.python.org/downloads/release/python-3109/)
-    - imports (password_generator, os,time,string,pyautogui,random)
+    - imports (random_password_generator, os,time,string,pyautogui,random)
     - These can be installed using the requirements.bat file
 
 ### How to install
